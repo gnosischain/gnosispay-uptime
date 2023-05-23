@@ -4,9 +4,9 @@
     "url": "https://rpc.bicoccachain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.bicoccachain.net.ico",
     "slug": "testnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 512,
     "timeMonth": 506,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   },
   {
     "name": "Testnet Blockscout Explorer",
@@ -34,7 +36,7 @@
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-05-23": 31,
+      "2023-05-23": 636,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
