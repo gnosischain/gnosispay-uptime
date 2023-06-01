@@ -2,6 +2,8 @@
 owner: gnosischain
 repo: gnosispay-uptime
 sites:
+  - name: "GnosisPay"
+    url: https://gnosispay.com/
   - name: "Bicocca Testnet RPC"
     method: POST
     url: https://rpc.bicoccachain.net/
