@@ -2,7 +2,7 @@
 owner: gnosischain
 repo: gnosispay-uptime
 sites:
-  - name: "Testnet RPC"
+  - name: "Bicocca Testnet RPC"
     method: POST
     url: https://rpc.bicoccachain.net/
     headers: ["Content-Type: application/json"]
@@ -13,8 +13,8 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
-  - name: "Testnet Blockscout Explorer"
-    url: https://blockscout.bicoccachain.net/
+  - name: "Bicocca Testnet Blockscout Explorer"
+    url: https://explorer.bicoccachain.net/
 status-website:
   name: GnosisPay
   introTitle: "**GnosisPay**"
