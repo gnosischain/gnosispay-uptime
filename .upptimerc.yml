@@ -15,6 +15,17 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
+  - name: "GnosisPay Devnet RPC"
+    method: POST
+    url: https://rpc.devnet.gnosispay.network
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "method": "eth_blockNumber",
+        "params":[],
+        "id":1,
+        "jsonrpc":"2.0"
+      }
   - name: "Bicocca Testnet Blockscout Explorer"
     url: https://explorer.bicoccachain.net/
 status-website:
