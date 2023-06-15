@@ -4,9 +4,9 @@ repo: gnosispay-uptime
 sites:
   - name: "GnosisPay"
     url: https://gnosispay.com/
-  - name: "Bicocca Testnet RPC"
+  - name: "GnosisPay DEVNET RPC"
     method: POST
-    url: https://rpc.bicoccachain.net/
+    url: https://rpc.devnet.gnosispay.network
     headers: ["Content-Type: application/json"]
     body: |
       {
@@ -15,9 +15,24 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
-  - name: "GnosisPay Devnet RPC"
+  - name: "GnosisPay DEVNET Explorer"
+    url: https://explorer.devnet.gnosispay.network
+  - name: "GnosisPay TESTNET RPC"
     method: POST
-    url: https://rpc.devnet.gnosispay.network
+    url: https://rpc.testnet.gnosispay.network
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "method": "eth_blockNumber",
+        "params":[],
+        "id":1,
+        "jsonrpc":"2.0"
+      }
+  - name: "GnosisPay TESTNET Explorer"
+    url: https://explorer.testnet.gnosispay.network
+  - name: "Bicocca Testnet RPC"
+    method: POST
+    url: https://rpc.bicoccachain.net/
     headers: ["Content-Type: application/json"]
     body: |
       {
