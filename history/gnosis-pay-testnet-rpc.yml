@@ -1,7 +1,7 @@
 url: https://rpc.testnet.gnosispay.network
-status: down
-code: 503
-responseTime: 333
-lastUpdated: 2023-06-29T07:52:45.903Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2023-06-29T07:59:08.997Z
 startTime: Thu Jun 15 2023 14:43:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
