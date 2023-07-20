@@ -106,19 +106,19 @@
     "url": "https://rpc.bicoccachain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.bicoccachain.net.ico",
     "slug": "bicocca-testnet-rpc",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 406,
-    "timeDay": 351,
-    "timeWeek": 368,
-    "timeMonth": 383,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 402,
+    "timeDay": 322,
+    "timeWeek": 353,
+    "timeMonth": 378,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-07-20": 14
+      "2023-07-20": 20
     }
   },
   {
