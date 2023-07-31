@@ -1,7 +1,7 @@
 url: https://rpc.bicoccachain.net/
-status: down
-code: 502
-responseTime: 397
-lastUpdated: 2023-07-31T09:24:03.388Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2023-07-31T10:24:57.875Z
 startTime: Thu Jun 01 2023 07:34:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
