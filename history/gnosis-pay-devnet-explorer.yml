@@ -1,7 +1,7 @@
 url: https://explorer.devnet.gnosispay.network
-status: down
-code: 502
-responseTime: 496
-lastUpdated: 2023-08-12T10:32:47.337Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2023-08-12T10:39:03.032Z
 startTime: Thu Jun 15 2023 14:43:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
