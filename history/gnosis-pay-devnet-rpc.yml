@@ -1,7 +1,7 @@
 url: https://rpc.devnet.gnosispay.network
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2023-08-28T23:10:13.848Z
+status: down
+code: 503
+responseTime: 617
+lastUpdated: 2023-08-29T07:36:49.752Z
 startTime: 2023-06-13T14:28:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
