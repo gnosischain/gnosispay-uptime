@@ -1,7 +1,7 @@
 url: https://explorer.testnet.gnosispay.network
-status: down
-code: 502
-responseTime: 456
-lastUpdated: 2023-09-09T22:44:16.642Z
+status: up
+code: 200
+responseTime: 513
+lastUpdated: 2023-09-09T22:50:39.870Z
 startTime: 2023-06-15T14:43:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
